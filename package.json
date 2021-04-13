@@ -1,0 +1,15 @@
+{
+  "name": "typescript-basic-project",
+  "version": "1.0.0",
+  "description": "TypeScript - Basic Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rudi.mail90@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
